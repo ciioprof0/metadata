@@ -1,0 +1,50 @@
+# General Use
+python-magic>=0.4.27
+prettytable>=3.9.0
+regex>=2023.10.3
+
+# File Metadata
+python-magic>=0.4.27
+python-magic-bin>=0.4.14
+pywin32>=306
+
+# Text Encoding
+chardet>=5.2.0
+charset-normalizer>=3.3.2
+faust-cchardet>=2.1.19
+ftfy>=6.1.3
+langdetect>=1.0.9
+
+# Data Science
+jupyterlab>=4.0.9
+nbconvert>=7.14.2
+matplotlib>=3.8.2
+notebook>=7.0.6
+numpy>=1.26.2
+pandas>=2.1.3
+scikit-learn>=1.3.2
+seaborn>=0.13.0
+#tensorflow>=2.15.0
+
+# Web Scraping
+#beautifulsoup4>=4.12.2
+#readability-lxml>=
+#requests>=2.31.0
+#Scrapy>=2.11.0
+#tweepy>=4.14.0
+
+# Natural Language Processing
+contractions>=0.1.73
+#gensim>=4.3.2
+nltk>=3.8.1
+spaCy>=3.7.2
+textacy>=0.13.0
+unidecode>=1.3.7
+
+# Image Processing
+Pillow>=10.1.0
+
+# R
+radian>=0.6.9
+rpy2>=3.5.15
+
